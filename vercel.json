@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://aayxshkumar.github.io/", "permanent": true },
+    { "source": "/:path*", "destination": "https://aayxshkumar.github.io/", "permanent": true }
+  ]
+}

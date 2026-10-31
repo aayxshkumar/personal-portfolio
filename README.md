@@ -1,5 +1,6 @@
 # Personal Portfolio Website using Nextjs, Tailwind CSS and Framer-motion
 
+> This was my portfolio in 2023. It now redirects to **[aayxshkumar.github.io](https://aayxshkumar.github.io)**; the code is kept for reference.
 
 To checkout the page click on the following link👇: <br />
 [Portfolio Website](https://aayush-kumar.vercel.app/) <br />
